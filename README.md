@@ -1,4 +1,5 @@
-[![arXiv](https://img.shields.io/static/v1?label=arXiv&message=21XX.XXXXX&color=inactive&style=plastic)](https://arxiv.org/abs/21XX.XXXXX)
+[![arXiv](https://img.shields.io/static/v1?label=arXiv&message=2105.06932&color=inactive&style=plastic)](https://arxiv.org/abs/2105.06932)
+![GitHub](https://img.shields.io/github/license/iic-jku/dd-quantum-measurements)
 
 
 # Decision Diagrams for Quantum Measurements with Classical Shadows
@@ -9,7 +10,7 @@ This approach generalizes previously known uniform and locally-biased randomized
 The decision diagrams are constructed given target quantum operators and can be optimized considering different strategies. 
 We show numerically that the estimators introduced here can produce more precise estimates on some quantum chemistry Hamiltonians, compared to previously known randomized protocols and Pauli grouping methods.   
 
-The full paper *Decision Diagrams for Quantum Measurements with Classical Shadows* by *Stefan Hillmich, Charles Hadfield, Rudy Raymond, Antonio Mezzacapo, and Robert Wille* is available at [*ARXIV*](https://arxiv.org/abs/21XX.XXXXX).
+The full paper *Decision Diagrams for Quantum Measurements with Classical Shadows* by *Stefan Hillmich, Charles Hadfield, Rudy Raymond, Antonio Mezzacapo, and Robert Wille* is available at [*arXiv:2105.06932*](https://arxiv.org/abs/2105.06932).
 
 ## Installation & Usage
 
